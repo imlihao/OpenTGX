@@ -1,0 +1,184 @@
+{
+  "ver": "2.3.8",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1",
+  "files": [],
+  "subMetas": {
+    "99380": {
+      "importer": "gltf-material",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@99380",
+      "displayName": "",
+      "id": "99380",
+      "name": "Material.001.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbd92": {
+      "importer": "gltf-mesh",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@bbd92",
+      "displayName": "",
+      "id": "bbd92",
+      "name": "Cylinder.004.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 404
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41ac8": {
+      "importer": "gltf-mesh",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@41ac8",
+      "displayName": "",
+      "id": "41ac8",
+      "name": "Cube.001.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 2150
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9549": {
+      "importer": "gltf-material",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@a9549",
+      "displayName": "",
+      "id": "a9549",
+      "name": "Material.003.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e736c": {
+      "importer": "gltf-material",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@e736c",
+      "displayName": "",
+      "id": "e736c",
+      "name": "Material.004.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4e6b": {
+      "importer": "gltf-material",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@b4e6b",
+      "displayName": "",
+      "id": "b4e6b",
+      "name": "Material.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1043e": {
+      "importer": "gltf-material",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@1043e",
+      "displayName": "",
+      "id": "1043e",
+      "name": "Material.002.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b88c3": {
+      "importer": "gltf-scene",
+      "uuid": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@b88c3",
+      "displayName": "",
+      "id": "b88c3",
+      "name": "BOW AND ARROW.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@b88c3",
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@bbd92",
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@41ac8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@a9549",
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@e736c",
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@b4e6b",
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@99380",
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@1043e"
+      ],
+      "scenes": [
+        "08fd7ce4-605c-4a33-9a69-f019c5ece9c1@b88c3"
+      ]
+    }
+  }
+}
